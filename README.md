@@ -1,6 +1,6 @@
 ## The Design and Implementation of "Critique Hall": A Discussion Forum Web Application for Students
 
-![ImageLogo](https://github.com/JTandayu/CritiqueHallv2/blob/main/public/critiquehall2-dark.png)
+![ImageLogo](https://critiquehalladmin.herokuapp.com/assets/critiquehall-dark.png)
 
 Members:
 - Azariah Danizar G. Concepcion
@@ -10,7 +10,7 @@ Members:
 
 ## Critique Hall API
 
-![ImageLogo](https://github.com/JTandayu/CritiqueHallv2/blob/main/public/critiquehall-dark.png)
+![ImageLogo](https://critiquehalladmin.herokuapp.com/assets/critiquehall-dark.png)
 
 This is a Rest API created on Codeigniter 3 using the rest server of Chriskacerguis -> https://github.com/chriskacerguis/codeigniter-restserver
 
