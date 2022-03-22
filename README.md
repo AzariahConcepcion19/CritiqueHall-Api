@@ -10,8 +10,6 @@ Members:
 
 ## Critique Hall API
 
-![ImageLogo](https://critiquehalladmin.herokuapp.com/assets/critiquehall-dark.png)
-
 This is a Rest API created on Codeigniter 3 using the rest server of Chriskacerguis -> https://github.com/chriskacerguis/codeigniter-restserver
 
 
