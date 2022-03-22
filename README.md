@@ -3,10 +3,10 @@
 ![ImageLogo](https://critiquehalladmin.herokuapp.com/assets/critiquehall-dark.png)
 
 Members:
-- Azariah Danizar G. Concepcion
-- Jomari L. Matias
-- Jose Luis P. Tandayu
-- Richie Gene R. Tan
+- Azariah Danizar G. Concepcion (Back-end Dev)
+- Jomari L. Matias (UX Designer)
+- Jose Luis P. Tandayu (Front-end Dev)
+- Richie Gene R. Tan (UI Designer)
 
 ## Critique Hall API
 
